@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestAlarm</string>
+    <string name="h_y_b_o_th_c">Hủy Báo Thức</string>
+    <string name="th_m_b_o_th_c">Thêm Báo Thức</string>
+    <string name="l_i_nh_c">Lời Nhắc</string>
+    <string name="d_ng">Dừng</string>
+    <string name="t_t_b_o_th_c">TẮT BÁO THỨC</string>
+    <string name="b_o_th_c_n1">BÁO THỨC ĐÃ ĐẾN</string>
+</resources>
